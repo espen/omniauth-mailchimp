@@ -1,6 +1,6 @@
 # Mailchimp Strategy
 
-MailChimp OAuth2 strategy for OmniAuth 1.0 using the v2 Mailchimp API.
+MailChimp OAuth2 strategy for OmniAuth 1.0 using the v3 Mailchimp API.
 
 # Mailchimp OAuth documentation
 
